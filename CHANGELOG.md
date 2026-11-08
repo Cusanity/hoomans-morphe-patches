@@ -1,3 +1,9 @@
+## [1.54.0](https://github.com/Cusanity/hoomans-morphe-patches/compare/v1.53.0...v1.54.0) (2026-11-08)
+
+### ✨ New Features
+
+* **finch:** support version 3.73.236 ([d85a577](https://github.com/Cusanity/hoomans-morphe-patches/commit/d85a577f45f39adefe73118ec98db33d71783564))
+
 ## [1.53.0](https://github.com/arandomhooman/hoomans-morphe-patches/compare/v1.52.1...v1.53.0) (2026-09-21)
 
 ### ✨ New Features
